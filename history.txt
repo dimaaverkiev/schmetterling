@@ -1,0 +1,660 @@
+    1  ls
+    2  cd /
+    3  ls
+    4  cd home
+    5  ls
+    6  cd dimi
+    7  ls
+    8  cd ssh
+    9  cd opt#
+   10  cd opt
+   11  cd /opt
+   12  ls
+   13  ls -a
+   14  cd..
+   15  cd /
+   16  cd root
+   17  cd /root
+   18  exit
+   19  .ssh
+   20  cd .ssh
+   21  ls
+   22  /
+   23  cd /
+   24  ls
+   25  cd home
+   26  ls
+   27  cat dimi
+   28  cd dimi
+   29  ls
+   30  ls -a
+   31  cd /
+   32  ls
+   33  cd /usr
+   34  ls
+   35  cd bin
+   36  ls
+   37  cd ssh
+   38  cd .ssh
+   39  cat ssh
+   40  61;6;7;14;21;22;23;24;28;32;42c61;6;7;14;21;22;23;24;28;32;42c
+   41  cd /ssh
+   42  cd ssh
+   43  cd .ssh
+   44  cd /
+   45  ls
+   46  cd sys
+   47  ls
+   48  cd ..
+   49  cd ~
+   50  ls
+   51  ls -a
+   52  cd /home
+   53  ls -a
+   54  cd dimi
+   55  ls
+   56  ls -a
+   57  cd /
+   58  Host
+   59  ls
+   60  cd home
+   61  ls
+   62  cd dimi
+   63  cd .ssh
+   64  cd /home/avidima/.ssh
+   65  cd /home/dimi/.ssh
+   66  exit
+   67  ls
+   68  ls -a
+   69  cd /home/dimi/.shh
+   70  cd  /
+   71  ls
+   72  cd ~
+   73  cd ~/.shh
+   74  ls -a
+   75  cd .profile
+   76  cat .profile
+   77  ls
+   78  sudo cd ~/.ssh
+   79  ls
+   80  cd /
+   81  ls
+   82  cd /home
+   83  ls
+   84  cd dimi
+   85  cd lib
+   86  cd lib64
+   87  cat lib64
+   88  cd root
+   89  cd /
+   90  cd lib
+   91  ls
+   92  cd..
+   93  cd ..
+   94  ls
+   95  cd usr
+   96  ls
+   97  cd local
+   98  ls
+   99  ls -a
+  100  cd /sys
+  101  ls
+  102  cd /var
+  103  ls
+  104  cd /srv
+  105  ls -a
+  106  cd /opt
+  107  ls
+  108  ls -a
+  109  cd /etc
+  110  ls -a
+  111  cd ssh
+  112  ls
+  113  cd ssh_config
+  114  cd ssh_config.d/
+  115  ls
+  116  ls -a
+  117  cd ..
+  118  cd..
+  119  cd ..
+  120  cat ssh
+  121  cd .ssh
+  122  cd /
+  123  ls
+  124  ssh-keygen
+  125  cat /home/dimi/.ssh/id_ed25519
+  126  cat /home/dimi/.ssh/id_ed25519.pub
+  127  cd .shh
+  128  cd /
+  129  cd .ssh
+  130  cd home/dimi/.ssh
+  131  touch config
+  132  ls
+  133  vim config
+  134  cd /
+  135  ich_dima
+  136  ssh ich_dima 
+  137  exit
+  138  ssh ich_dima 
+  139  exit
+  140  ssh ich_dima 
+  141  elv
+  142  env
+  143  oldpwd
+  144  oldpwd=/
+  145  term
+  146  env | term
+  147  pwd
+  148  tz
+  149  home
+  150  cd /
+  151  $oldpwd
+  152  export THEO=hund
+  153  env
+  154  ls
+  155  cd ~
+  156  ls
+  157  ls -a
+  158  $top
+  159  top
+  160  btop
+  161  htop
+  162  sudo apt install btop
+  163  btop
+  164  top
+  165  exit
+  166  ssh ich_dima 
+  167  exit
+  168  ssh ich_dima 
+  169  exit
+  170  cd /
+  171  ls
+  172  cd usr
+  173  ls
+  174  cd ..
+  175  free -h
+  176  free -m
+  177  cd sys
+  178  ls
+  179  cd ..
+  180  cd srv
+  181  ls
+  182  ls -a
+  183  cd ..
+  184  cd bin
+  185  ls
+  186  cd ..
+  187  ls
+  188  cd home
+  189  ls
+  190  cd dimi
+  191  ls
+  192  ls -a
+  193  cd ..
+  194  cd media
+  195  ls
+  196  ls -a
+  197  cs /root
+  198  cd /root
+  199  cd ..
+  200  cd root
+  201  cat /etc/os-release
+  202  cat /proc/cpuinfo
+  203  neofetch
+  204  sudo apt update
+  205  bitop
+  206  btop
+  207  echo path
+  208  echo PATH
+  209  exit
+  210  htop
+  211  btop
+  212  ls -la
+  213  cd /
+  214  ls -la
+  215  exit
+  216  git ---version
+  217  git --version
+  218  cd /ssh
+  219  cd /
+  220  cd .ssh
+  221  ls -a
+  222  cd home/.ssh
+  223  cd /home
+  224  ls -a
+  225  cd /dimi
+  226  cd ~
+  227  cd .ssh
+  228  cat id_ed25519.pub
+  229  git clone git@github.com:dimaaverkiev/ich_rep.git
+  230  ls
+  231  mv ich_rep ../
+  232  ls
+  233  cd ..
+  234  ls
+  235  mv ich_rep /
+  236  mv ich_rep /home
+  237  ls
+  238  cd ich_rep/
+  239  ls -a
+  240  cd .git
+  241  ls -a
+  242  cd ..
+  243  git config --global user.name "Dmitro_Averkiev"
+  244  git config --global user.email "avidimaaa@gmail.com"
+  245  ls -a
+  246  cd ..
+  247  ls -a
+  248  cat .gitconfig 
+  249  ls -a
+  250  rm ich_rep/ /home
+  251  rm -rf ich_rep
+  252  ls -a
+  253  cd /home
+  254  ls- a
+  255  ls -a
+  256  touch repository
+  257  touch /repository
+  258  mkdir repository
+  259  ls -a
+  260  cd dimi
+  261  cd /
+  262  ls 
+  263  mkdir repository
+  264  cd ~
+  265  ls -a
+  266  git clone git@github.com:dimaaverkiev/ich_rep.git
+  267  cd ich_rep/
+  268  git status
+  269  ls -a
+  270  cd ..
+  271  ls -a
+  272  cd /
+  273  ls -a
+  274  cd ~
+  275  exit
+  276  ls -la
+  277  ssh avidima
+  278  cd /
+  279  ssh ich_dima 
+  280  exit
+  281  sudo install snapt
+  282  sudo apt install snapt
+  283  exit
+  284  ls
+  285  cd /tmp
+  286  vi file.txt
+  287  ls
+  288  df -h | tail -n 3 >> file.txt 
+  289  cat file.txt 
+  290  sudo chmod g+wx file.txt 
+  291  ls -la
+  292  sudo chmod g=wx file.txt 
+  293  ls -ls
+  294  ls -la
+  295  sudo chmod u-w file.txt 
+  296  ls -la
+  297  cd ..
+  298  ls
+  299  cd home
+  300  cd ~
+  301  touch myfirstbashscript.sh
+  302  ls -la
+  303  sudo chmod a+x myfirstbashscript.sh 
+  304  export USER=Dimasik
+  305  vim myfirstbashscript.sh 
+  306  ./myfirstbashscript.sh 
+  307  cat myfirstbashscript.sh 
+  308  vi myfirstbashscript.sh 
+  309  ./myfirstbashscript.sh 
+  310  vi myfirstbashscript.sh 
+  311  ./myfirstbashscript.sh 
+  312  cat myfirstbashscript.sh >> /tmp/file.txt 
+  313  echo myfirstbashscript.sh 
+  314  echo 'myfirstbashscript.sh' 
+  315  echo ./myfirstbashscript.sh 
+  316  cat < myfirstbashscript.sh > /tmp/file.txt 
+  317  cat myfirstbashscript.sh >> /tmp/file.txt 
+  318  cd /tmp
+  319  sudo chmod u+rwx file.txt 
+  320  cd ~
+  321  cat myfirstbashscript.sh >> /tmp/file.txt 
+  322  history >> /tmp/file.txt 
+  323  export_file /tmp/file.txt 
+  324  exit
+  325  ls -a
+  326  echo "# git_intro" >> README.md
+  327  ls -a
+  328  cat ich_rep/
+  329  cd ich_rep/
+  330  ls -a
+  331  cd ..
+  332  cat README.md 
+  333  rm -rf README.md 
+  334  ls -a
+  335  mkdir git_intro
+  336  cd git_intro/
+  337  echo "# git_intro" >> README.md
+  338  git init
+  339  ls -a
+  340  git add README.md
+  341  git commit -m "first commit"
+  342  git branch -M main
+  343  git remote add origin https://github.com/dimaaverkiev/git_intro.git
+  344  git push -u origin main
+  345  git remote set-url origin git@github.com:dimaaverkiev/git_intro.git
+  346  git remote -v
+  347  ls -a
+  348  cat .git
+  349  cd .git
+  350  ls -a
+  351  cd ..
+  352  cat README.md 
+  353  rm -rf
+  354  rm -rf .git/
+  355  rm -rf README.md 
+  356  ls -a
+  357  git remote add origin https://github.com/dimaaverkiev/git_intro.git
+  358  .git
+  359  touch .git
+  360  ls -a
+  361  rm -rf .git
+  362  ls -a
+  363  git init
+  364  git remote add origin https://github.com/dimaaverkiev/git_intro.git
+  365  git branch -M main
+  366  git push -u origin main
+  367  ls -a
+  368  rm -rf
+  369  rm -rf .git/
+  370  ls -a
+  371  echo "# git_intro" >> README.md
+  372  git init
+  373  git add README.md
+  374  git commit -m "first commit"
+  375  git branch -M main
+  376  git remote set-url origin git@github.com:dimaaverkiev/git_intro.git
+  377  git remote add origin https://github.com/dimaaverkiev/git_intro.git
+  378  git push -u origin main
+  379  git remote set-url origin git@github.com:dimaaverkiev/git_intro.git
+  380  git remote -v
+  381  git push -u origin main
+  382  ls -a
+  383  cd ..
+  384  ls
+  385  cd /
+  386  ls -a
+  387  cd opt
+  388  ls -a
+  389  cd /usr
+  390  ls -a
+  391  cd /tmp
+  392  ls -a
+  393  cd /media
+  394  ls -a
+  395  #cd 
+  396  cd ~
+  397  ls
+  398  cd git_intro/
+  399  ls
+  400  cat ABT_RSQ8.avif
+  401  ls
+  402  git add ABT_RSQ8.avif
+  403  ls 
+  404  git status
+  405  git commit -m "Добавлена красотка в проект"
+  406  git push origin main
+  407  exit
+  408  ls
+  409  cd /
+  410  ls
+  411  cd tmp
+  412  ls
+  413  ls -a
+  414  ssh ich_dima 
+  415  ls -a
+  416  cd ..#
+  417  cd ..
+  418  exit
+  419  sudo updatedb
+  420  ls
+  421  vim myfirstbashscript.sh 
+  422  date >> myfirstbashscript.sh 
+  423  echo myfirstbashscript.sh 
+  424  cat myfirstbashscript.sh 
+  425  ./myfirstbashscript.sh 
+  426  vim myfirstbashscript.sh 
+  427  ./myfirstbashscript.sh 
+  428  vim myfirstbashscript.sh 
+  429  ./myfirstbashscript.sh 
+  430  vim myfirstbashscript.sh 
+  431  uptime
+  432  free -h
+  433  top
+  434  btop
+  435  top | grep bioset
+  436  bioset
+  437  ps -ef | grep bioset
+  438  cat bioset
+  439  vim myfirstbashscript.sh 
+  440  ./myfirstbashscript.sh 
+  441  vim myfirstbashscript.sh 
+  442  ./myfirstbashscript.sh 
+  443  vim myfirstbashscript.sh 
+  444  ./myfirstbashscript.sh 
+  445  vim myfirstbashscript.sh 
+  446  ./myfirstbashscript.sh 
+  447  vim myfirstbashscript.sh 
+  448  ./myfirstbashscript.sh 
+  449  vim myfirstbashscript.sh 
+  450  ./myfirstbashscript.sh 
+  451  vim myfirstbashscript.sh 
+  452  ./myfirstbashscript.sh 
+  453  vim myfirstbashscript.sh 
+  454  ./myfirstbashscript.sh 
+  455  vim myfirstbashscript.sh 
+  456  ./myfirstbashscript.sh 
+  457  vim myfirstbashscript.sh 
+  458  ./myfirstbashscript.sh 
+  459  ls -la /etc/passwd
+  460  vim myfirstbashscript.sh 
+  461  ./myfirstbashscript.sh 
+  462  vim myfirstbashscript.sh 
+  463  ./myfirstbashscript.sh 
+  464  vim myfirstbashscript.sh 
+  465  ./myfirstbashscript.sh 
+  466  vim myfirstbashscript.sh 
+  467  ./myfirstbashscript.sh 
+  468  vim my
+  469  ls
+  470  vim myfirstbashscript.sh 
+  471  ./myfirstbashscript.sh 
+  472  vim myfirstbashscript.sh 
+  473  ./myfirstbashscript.sh 
+  474  vim myfirstbashscript.sh 
+  475  ./myfirstbashscript.sh 
+  476  vim myfirstbashscript.sh 
+  477  .7my
+  478  ./myfirstbashscript.sh 
+  479  vim myfirstbashscript.sh 
+  480  ./myfirstbashscript.sh 
+  481  exit
+  482  vim myfirstbashscript.sh 
+  483  exit
+  484  ./myfirstbashscript.sh 
+  485  vim ./myfirstbashscript.sh 
+  486  exit
+  487  ls
+  488  git log
+  489  cd git_intro/
+  490  git log
+  491  exit
+  492  git branch
+  493  ls
+  494  vim myfirstbashscript.sh 
+  495  cd git_intro/
+  496  git branch
+  497  ls -a
+  498  git branch -a
+  499  cd.. 
+  500  ls
+  501  cd ..
+  502  ls
+  503  mkdir git-branch
+  504  cd git-branch/
+  505  git remote add origin git@github.com:dimaaverkiev/git-branch.git
+  506  .git
+  507  git init
+  508  git remote add origin git@github.com:dimaaverkiev/git-branch.git
+  509  git branch -M main
+  510  git push -u origin main
+  511  git status
+  512  git branch
+  513  git checkout -b gitignore
+  514  ls -a
+  515  git add README.md
+  516  cd ..
+  517  cd git-branch/
+  518  ls -a
+  519  git add README.md
+  520  git remote add origin git@github.com:dimaaverkiev/git-branch.git
+  521  git branch -M main
+  522  git push -u origin main
+  523  git branch -M main
+  524  git remote add origin git@github.com:dimaaverkiev/git-branch.git
+  525  git push -u origin main
+  526  ls -a
+  527  cd ..
+  528  cd git_intro/
+  529  ls -a
+  530  cd ..
+  531  cd git-branch/
+  532  ls -a
+  533  rm -rf .git/
+  534  ls -a
+  535  git status
+  536  git branche
+  537  git branch
+  538  git remote add origin git@github.com:dimaaverkiev/git-branch.git
+  539  git branch -M main
+  540  git push -u origin main
+  541  echo "# git-branch" >> README.md
+  542  git init
+  543  git add README.md
+  544  git commit -m "first commit"
+  545  git branch -M main
+  546  git remote add origin git@github.com:dimaaverkiev/git-branch.git
+  547  git push -u origin main
+  548  ls -a
+  549  git checkout -b gitignore
+  550  ls -a
+  551  git fetch --all
+  552  ls -a
+  553  git fetch --all
+  554  touch .gitignore
+  555  git add .gitignore 
+  556  git commit -m "Добавил файл .gitignore и разрешил его отслеживать"
+  557  git status
+  558  git push origin gitignore
+  559  history
+  560  vim .gitignore
+  561  ls -a
+  562  ls -al
+  563  git clone https://github.com/aliaskov/bashscripts/blob/master/.gitignore >> .gitignore
+  564  vim .gitignore
+  565  git push origin gitignore
+  566  git push origin .gitignore
+  567  exit
+  568  ssh ich_dima 
+  569  exit
+  570  ssh ich_dima 
+  571  cd /
+  572  ls
+  573  cd ~
+  574  ls
+  575  mkdir schmetterling
+  576  cd schmetterling/
+  577  git init
+  578  git checkout -b schmetteling origin/ schmetterling
+  579  git fetch --all
+  580  ls
+  581  ls -a
+  582  git push -u origin main
+  583  git pull
+  584  git pull schmetterling --all
+  585  git pull schmetterling 
+  586  gh repo clone dimaaverkiev/schmetterling
+  587  git clone git@github.com:dimaaverkiev/schmetterling.git
+  588  ls -a
+  589  cd schmetterling/
+  590  ls -a
+  591  cd ..
+  592  ls
+  593  cd schmetterling/
+  594  ls -a
+  595  cd schmetterling/
+  596  ls -a
+  597  cd ..
+  598  rm -rf schmetterling/
+  599  cd 
+  600  ls 
+  601  ls -a
+  602  ls
+  603  git clone git@github.com:dimaaverkiev/schmetterling.git
+  604  cd
+  605  ls
+  606  cd schmetterling/
+  607  ls -a
+  608  git branch 
+  609  git branch feature
+  610  git branch 
+  611  git checkout feature 
+  612  git branch 
+  613  ls -a
+  614  vim README.md 
+  615  ls -a
+  616  vim README.md 
+  617  vim .gitignore
+  618  sudo chmod x README.md 
+  619  sudo chmod +x README.md 
+  620  ls -la
+  621  sudo chmod +x-- .gitignore
+  622  ls -la
+  623  date >> README.md 
+  624  ps aux >> README.md 
+  625  ./README.md 
+  626  vim README.md 
+  627  cat README.md 
+  628  sudo chmod +w README.md 
+  629  ./README.md 
+  630  echo 'Vsem Dobra' >> .gitignore
+  631  date >> .gitignore
+  632  top >> .gitignore
+  633  git commit -m 'Обновленны файлы readme и gitignore'
+  634  git status 
+  635  git add README.md 
+  636  git commit 'Обновленны файлы readme и gitignore'
+  637  git status 
+  638  git commit -a -m 'Измененны файлы'
+  639  git branch 
+  640  git status 
+  641  git log
+  642  git log --oneline
+  643  git restore .gitignore
+  644  git commit -a
+  645  git log --oneline
+  646  git push origin feature 
+  647  git commit --amend 'ammend'
+  648  git branch 
+  649  ls -a
+  650  sudo git commit --amend 'ammend'
+  651  sudo git commit --amend -m 'ammend'
+  652  git commit --amend 
+  653  git branch main 
+  654  git checkout main 
+  655  git merge feature 
+  656  git branch 
+  657  git status 
+  658  git push origin main 
+  659  touch history.txt
+  660  history > history.txt 
